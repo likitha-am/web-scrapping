@@ -3,7 +3,7 @@
 
 Daily News Email Digest is a Python-based automation project that collects the latest news articles from trusted online sources and delivers them directly to the user’s email inbox in a clean, readable format.
 
-The project scrapes news from sources such as Firstpost and Brut Media, stores the articles in a local SQLite database, and sends a daily email digest containing headlines and summaries. This eliminates the need to visit multiple websites manually.
+The project scrapes news from sources such as Firstpost and Vantage, stores the articles in a local SQLite database, and sends a daily email digest containing headlines and summaries. This eliminates the need to visit multiple websites manually.
 
 ## Features
 
