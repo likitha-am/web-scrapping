@@ -8,9 +8,7 @@ The project scrapes news from sources such as Firstpost and Brut Media, stores t
 ## Features
 
  Web scraping from reliable news sources
-
  SQLite database storage for fetched articles
-
  Automated daily email delivery
 
  Duplicate article detection to avoid repeated news
